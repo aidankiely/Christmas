@@ -1,0 +1,18 @@
+.parallax {
+
+  background-image: url('456.jpg');
+ filter: blur(4px);
+
+
+
+
+  min-height: 500px;
+
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {text-align: center;}
+h3 {text-align: center;}
